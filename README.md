@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## What is this ?
+
+This is CRA template where you can get complete react setup with
+* **react-router**
+* **react-redux**
+* **Sample navigation flow and redux dispatch and consume data**
+
+## Installation
+
+`npx create-react-app project-name --template js-all`
+
 ## Available Scripts
 
 In the project directory, you can run:
