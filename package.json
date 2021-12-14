@@ -1,15 +1,17 @@
 {
   "name": "cra-template-umworks",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
     "react",
-    "react-redux",
+    "antd",
     "react-js",
     "react-router",
     "react-router-dom",
     "create-react-app",
     "template",
-    "cra-template"
+    "cra-template",
+    "swr",
+    "recoil"
   ],
   "description": "React js-template for umworks, Redux, React-router complete pack for Create React App template.",
   "author": "qiuquanwu",
