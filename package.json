@@ -1,5 +1,5 @@
 {
-  "name": "cra-template-js-all",
+  "name": "cra-template-umworks",
   "version": "1.0.1",
   "keywords": [
     "react",
@@ -11,12 +11,12 @@
     "template",
     "cra-template"
   ],
-  "description": "Reactjs with js-template, Redux, React-router complete pack for Create React App template.",
-  "author": "js-pujari",
+  "description": "React js-template for umworks, Redux, React-router complete pack for Create React App template.",
+  "author": "qiuquanwu",
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/js-pujari/cra-js-all.git",
+    "url": "https://github.com/qiuquanwu/cra-template-umworks",
     "directory": "template"
   },
   "license": "MIT",
@@ -24,7 +24,7 @@
     "node": ">=10"
   },
   "bugs": {
-    "url": "https://github.com/js-pujari/cra-js-all/issues"
+    "url": "https://github.com/qiuquanwu/cra-template-umworks/issues"
   },
   "files": [
     "template",
